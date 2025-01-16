@@ -1,0 +1,26 @@
+[
+  {
+    "title": "LiftEZ: Intelligent Form Tracker",
+    "imageSrc": "projects/liftez.png",
+    "description": "A fitness app using OpenCV and MediaPipe for real-time exercise form tracking and repetition counting, with a React-based UI for seamless interaction.",
+    "skills": ["Python", "OpenCV", "MediaPipe", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Automated Email Bot",
+    "imageSrc": "projects/email-bot.png",
+    "description": "An AI-powered email bot using OpenAI’s API to send personalized messages on a schedule, optimized for macOS environments.",
+    "skills": ["Python", "OpenAI API", "Automation"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "EasyTrack Application",
+    "imageSrc": "projects/easytrack.png",
+    "description": "An iPhone app for time management with calendar integration and dynamic event tracking, featuring a user-friendly interface.",
+    "skills": ["iOS", "Swift", "UI Design"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

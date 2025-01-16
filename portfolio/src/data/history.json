@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Circuitry Sub Team Member",
+    "organisation": "Chem-E Car",
+    "startDate": "Aug, 2023",
+    "endDate": "Sept, 2024",
+    "experiences": [
+      "Developed a Gyro/Accelerometer system for accurate tracking and stability.",
+      "Optimized sensor placement to reduce interference and save space.",
+      "Programmed Arduino code for reliable operation during experiments."
+    ],
+    "imageSrc": "history/cheme-car.png"
+  },
+  {
+    "role": "Program Assistant",
+    "organisation": "Shad Canada, University of Lethbridge",
+    "startDate": "June, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "Led workshops and mentored students in STEAM and entrepreneurship.",
+      "Built an inclusive environment and guided youth development."
+    ],
+    "imageSrc": "history/shad-canada.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "Youth Professionals",
+    "startDate": "Dec, 2020",
+    "endDate": "Feb, 2022",
+    "experiences": [
+      "Built a feature-rich website with HTML, CSS, and JavaScript.",
+      "Collaborated with developers for a seamless web platform.",
+      "Designed user-friendly interfaces to enhance engagement."
+    ],
+    "imageSrc": "history/youth-professionals.png"
+  }
+]
