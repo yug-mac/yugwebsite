@@ -17,7 +17,7 @@
     },
     {
       "title": "Python",
-      "imageSrc": "skills/graphql.png"
+      "imageSrc": "assets/python.svg"
     },
     {
       "title": "Java",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Figma",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "assets/figma.svg"
     },
     {
       "title": "JavaScript",
